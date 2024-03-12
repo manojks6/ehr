@@ -1,0 +1,16 @@
+.img {
+     background-image: url("Background.jpg");
+     background-repeat: no-repeat;
+     min-width: 1200px;
+     min-height: 550px;
+     opacity: 80%;
+     font-size: xx-large;
+}
+.body{
+     padding-top: 180px;
+     padding-left: 60px;
+     color: aliceblue;
+     opacity: 100%;
+     font-size: 40px;
+     font-weight: bold;
+}

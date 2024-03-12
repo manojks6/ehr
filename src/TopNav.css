@@ -1,0 +1,43 @@
+.topNav{
+     background-color: #26018F;
+     width: 1350px;
+     height: 70px;
+     display: flex;
+     font-size: x-large;
+     align-items: center;
+}
+.lef {
+     display: flex;
+     justify-content: left;
+}
+
+.rig {
+     margin-left: 600px;
+     text-decoration: none;
+     display: flex;
+}
+
+p {
+     margin-left: 50px;
+     font-weight: 500;
+     cursor: pointer;
+}
+
+a {
+     text-decoration: none;
+     color: wheat;
+
+}
+
+a:hover {
+     color: aliceblue;
+}
+
+.body {
+     opacity: 100% !important;
+}
+#Logo{
+     padding-right: 105px;
+     background-color: #1D006B;
+     height: 73px;
+}

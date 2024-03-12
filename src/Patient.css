@@ -1,0 +1,23 @@
+.patBody{
+     display: flex;
+}
+.details{
+     display: flex;
+}
+.right{
+     background-color: #C6C7C9;
+     margin: 20px 0px 0px 100px;
+     padding: 5px;
+     width: 800px;
+     height: 150px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.right img{
+     padding-top: 20px;
+     height: 100px;
+     width: 100px;
+}
+.right .data{
+     padding: 18px 0px 0px 20px;
+
+}

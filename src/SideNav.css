@@ -1,0 +1,15 @@
+.SideNav{
+     margin: 0px;
+     padding-top: 2px;
+     background-color: #C6C7C9;
+     width: 200px;
+     height: 550px;
+}
+.SideNav p{
+     margin: 0px;
+     text-align: left;
+     padding: 15px;
+}
+.SideNav p:hover{
+     background-color: #a2c1cf;
+}
