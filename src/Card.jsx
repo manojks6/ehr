@@ -1,5 +1,5 @@
 import React from "react";
-const Card = ({ title, description, metricValue,color }) => {
+const Card = ({ title, description, metricValue,color}) => {
      const myStyle = {
           color: 'white',
           backgroundColor: color,
