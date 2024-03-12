@@ -23,6 +23,11 @@
      padding-top: 20px;
      height: 100px;
      width: 100px;
+     border-top-right-radius: 45%;
+     border-top-left-radius: 45%;
+     border-bottom-right-radius: 40%;
+     border-bottom-left-radius: 40%;
+
 }
 .right .data{
      padding: 18px 0px 0px 20px;

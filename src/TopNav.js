@@ -7,7 +7,7 @@ function TopNav() {
        <div className='lef'>
           <Link to="/" id='Logo'> <p >EHR</p></Link>
           <Link to="/Patient"> <p>Patient</p></Link>
-          <Link to="/Doctor"> <p>Doctor</p></Link>
+          <Link to="/Doctor"> <p>Doctors</p></Link>
       </div>
       <div className='rig'>
           <a href="/Admin"><p>Admin</p></a>

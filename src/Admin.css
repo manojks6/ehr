@@ -1,0 +1,15 @@
+.AdminBody{
+     display: flex;
+}
+.cards{
+     display: flex;
+     margin-left: 20px;
+}
+.cards2{
+     margin-left: 20px;
+     background-color: gray;
+     border-radius: 10px;
+}
+Card{
+     margin-right: 10px;
+}

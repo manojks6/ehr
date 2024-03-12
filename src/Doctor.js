@@ -11,13 +11,13 @@ function Doctor() {
           <div className='right'>
             <div className='details'>
               <div className='Photo'>
-                <img src='https://cdn2.iconfinder.com/data/icons/app-ui-solid/64/profile_user_avatar_people_app_website-512.png' alt='img'></img>
+                <img src='https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8YtsMCaGfrfW-itaJqE_QIztD-AcbGJcDnXAQ0HTedXT3eyYg' alt='img'></img>
               </div>
               <div className='data'>
               <b>Name : </b>Manjunath S <br/>
               <b>Id : </b> 0x5sd2d520d50d2<br/>
               <b>Email : </b>manjunaths@gmail.com<br/>
-              <b>Phone : </b>850250101<br/>
+              <b>Phone : </b>8580250180<br/>
               <b>City : </b>Bangalore<br/>
               </div>
             </div>
